@@ -1,2 +1,2 @@
 # MSRUAS-PT2017
-Contains practice code, as part of my M.Tech 
+Contains practice code and assignments, as part of my M.Tech 
